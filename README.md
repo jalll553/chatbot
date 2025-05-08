@@ -7,6 +7,8 @@
 3) run commands(cmd)
 commands to go here cd C:\Users\YourName\Desktop\python
  install flask-pip install flask
+
 4)Now you can run your Flask app!
 python chatbot_web.py
+
 5) go to http://localhost:5001 to access the site on local mahine
